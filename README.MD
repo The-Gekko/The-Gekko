@@ -36,7 +36,7 @@ Mi proyecto insignia desarrollado para facilitar la vida de los entusiastas de L
 
 <!-- Reemplaza "ruta-a-la-foto.png" con el enlace o la ruta local a la captura de pantalla de tu app -->
 <div align="center">
-    <img src="ruta-a-la-foto.png" alt="Avance de GekkoApp" width="85%" style="border-radius: 10px;">
+    <img src="Screenshot_2026-03-26-23-50-20.png" alt="Avance de GekkoApp" width="85%" style="border-radius: 10px;">
 </div>
 
 <br/>
