@@ -22,8 +22,6 @@ Soy un desarrollador con ojo de diseñador. Me especializo en crear experiencias
 - 🐢 **Comunidad:** Líder Técnico de "las tortugas de ezku".
 - 🎖️ **Comunidad:** Manager de "Helldivers 2 elit latinamerica".
 
-<img src="Screenshot_2026-03-26-23-50-20.png" width="100%">
-
 ### 🌟 Desempeño y Proyectos Destacados
 
 **[GekkoApp] ** (En constante actualización)  
@@ -32,6 +30,9 @@ Mi proyecto insignia desarrollado para facilitar la vida de los entusiastas de L
 - 🪟 Entornos Tiling modernos como **Hyprland** y **Niri**.
 - 🎮 Herramientas de optimización y utilidades **Gaming**.
 - 📦 Integración nativa con repositorios **Chaotic AUR**.
+
+<img src="Screenshot_2026-03-26-23-50-20.png" width="100%">
+
 
 <!-- Reemplaza "ruta-a-la-foto.png" con el enlace o la ruta local a la captura de pantalla de tu app -->
 <div align="center">
