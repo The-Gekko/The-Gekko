@@ -22,7 +22,7 @@ Soy un desarrollador con ojo de diseñador. Me especializo en crear experiencias
 - 🐢 **Comunidad:** Líder Técnico de "las tortugas de ezku".
 - 🎖️ **Comunidad:** Manager de "Helldivers 2 elit latinamerica".
 
-<img src="presentacion/Screenshot_2026-03-26-23-50-20.png" width="100%">
+<img src="Screenshot_2026-03-26-23-50-20.png" width="100%">
 
 ### 🌟 Desempeño y Proyectos Destacados
 
