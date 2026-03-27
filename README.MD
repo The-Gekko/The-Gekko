@@ -114,7 +114,15 @@ Mi proyecto insignia desarrollado para facilitar la vida de los entusiastas de L
     </a>
     <br/>
     <a href="https://github.com/The-Gekko">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=The-Gekko&theme=transparent&hide_border=true&title_color=00d1ff&text_color=ffffff&layout=compact" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Gekko&theme=transparent&hide_border=true&title_color=00d1ff&text_color=ffffff&layout=compact" alt="Top Langs" />
+    </a>
+</div>
+
+<br/>
+
+<div align="center">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=The-Gekko&label=Vistas%20del%20Perfil&color=0&icon=5&pretty=true" alt="Visitas">
     </a>
 </div>
 
