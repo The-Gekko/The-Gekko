@@ -120,12 +120,6 @@ Mi proyecto insignia desarrollado para facilitar la vida de los entusiastas de L
 
 <br/>
 
-<div align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=The-Gekko&label=Vistas%20del%20Perfil&color=0&icon=5&pretty=true" alt="Visitas">
-    </a>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
