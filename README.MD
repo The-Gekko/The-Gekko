@@ -109,6 +109,9 @@ Mi proyecto insignia desarrollado para facilitar la vida de los entusiastas de L
     <a href="https://github.com/The-Gekko">
         <img src="https://github-readme-stats.vercel.app/api?username=The-Gekko&show_icons=true&theme=transparent&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" alt="GitHub Stats" />
     </a>
+<a href="https://github.com/The-Gekko">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Gekko&theme=transparent&hide_border=true&stroke=00d1ff&ring=00d1ff&fire=00d1ff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+    </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
