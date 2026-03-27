@@ -14,12 +14,22 @@
 ### 👤 Sobre mí
 Soy un desarrollador con ojo de diseñador. Me especializo en crear experiencias visuales fluidas y sistemas robustos. Mi día a día transcurre entre terminales personalizadas de **Arch Linux**, compilaciones en **Rust** y el diseño de interfaces dinámicas con **QML**.
 
+- 🎓 **Academia:** Cursando mi **Maestría en Diseño Multimedia**, con hambre de seguir aprendiendo al punto de que, al terminar, me iré directo a estudiar un **Doctorado**.
 - 🛠 **Actualmente:** Liderando **The-Gekko | Soluciones Tech**.
 - 🧪 **Testing:** Colaboro activamente testeando aplicaciones para la comunidad de desarrolladores.
 - 🎨 **Pasión:** La personalización extrema de entornos (Dotfiles) y el diseño multimedia.
 - 🐢 **Comunidad:** Líder Técnico de "las tortugas de ezku".
 - 🎖️ **Comunidad:** Manager de "Helldivers 2 elit latinamerica".
 
+### 🌟 Desempeño y Proyectos Destacados
+
+**[GekkoApp] ** (En constante actualización)  
+Mi proyecto insignia desarrollado para facilitar la vida de los entusiastas de Linux. Es una herramienta robusta diseñada para la automatización, instalación y preconfiguración de:
+- 🪟 Entornos Tiling modernos como **Hyprland** y **Niri**.
+- 🎮 Herramientas de optimización y utilidades **Gaming**.
+- 📦 Integración nativa con repositorios **Chaotic AUR**.
+
+  
 ---
 
 <div align="center">
